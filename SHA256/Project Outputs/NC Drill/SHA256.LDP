@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\AProj\SHA256\SHA256.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=sha256-plated.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=sha256-nonplated.txt|LayerPairs=gtl,gbl
